@@ -1,0 +1,24 @@
+(()=>{const E=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));const $=id=>document.getElementById(id);
+const SEQ='sequence, no cause claimed';
+const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return 'source'}};
+fetch('data/powermap.json').then(r=>r.json()).then(d=>{
+$('ver').textContent='v'+d.version+' · as of '+d.as_of;$('summ').textContent=d.summary;
+$('panels').innerHTML=d.panels.map(p=>`<a href="powermap/${p}" target="_blank">${E(p.replace(/^powermap-|\.png$/g,'').replace(/-/g,' '))}</a>`).join('');
+const col={};Object.entries(d.legend.colour_by_category||{}).forEach(([k,v])=>col[k]=v.colour);
+const catOf=e=>e.kind=='context'?'context':e.category;
+const kind=e=>{let t=E(e.type)+(e.label?` <span class="mut">· ${E(e.label)}</span>`:'');if(e.sequence_only)t+=`<div class="seq">${SEQ}</div>`;if(e.status&&e.status!='active')t+=`<div class="mut small">status: ${E(e.status)}${e.status_note?' — '+E(e.status_note):''}</div>`;return t};
+const cats=[...new Set(d.edges.map(catOf))].sort(),sts=[...new Set(d.edges.map(e=>e.status||'active'))].sort();
+$('fc').innerHTML+=cats.map(c=>`<option>${E(c)}</option>`).join('');$('fs').innerHTML+=sts.map(c=>`<option>${E(c)}</option>`).join('');
+const row=e=>`<tr><td class="dcol">${e.n}</td><td><b>${E(e.from)}</b> → <b>${E(e.to)}</b><div class="meta">${E(e.claim)}</div></td><td class="th" style="white-space:normal">${kind(e)}</td><td>${e.grade?`<span class="g g${E(e.grade)}">${E(e.grade)}</span>`:'<span class="mut small">context</span>'}${e.saiddone?`<span class="g g${E(e.saiddone)}">${E(e.saiddone)}</span>`:''}</td><td class="dcol">${E(e.date||'—')}</td><td class="small">${(e.sources||[]).slice(0,3).map(u=>`<a href="${E(u)}" target="_blank" rel="noopener">${E(host(u))}</a>`).join('<br>')||'<span class="mut">—</span>'}</td></tr>`;
+const draw=()=>{const q=$('q').value.toLowerCase(),g=$('fg').value,c=$('fc').value,s=$('fs').value;
+const L=d.edges.filter(e=>(!q||[e.from,e.to,e.type,e.label,e.claim,e.id].join(' ').toLowerCase().includes(q))&&(!g||(g=='ctx'?!e.grade:e.grade==g))&&(!c||catOf(e)==c)&&(!s||(e.status||'active')==s)&&(!$('fq').checked||e.sequence_only)&&(!$('fn').checked||e.new_in_version));
+$('cnt').textContent=L.length+' / '+d.edges.length+' links';$('et').innerHTML=L.map(row).join('')};
+['q','fg','fc','fs','fq','fn'].forEach(i=>$(i).addEventListener('input',draw));draw();
+const m=d.money||{};$('mnote').textContent=(m.n||0)+' money ties, sorted by amount. '+(m.note||'');
+$('mt').innerHTML=(m.flows||[]).slice().sort((a,b)=>(b.amount_usd||0)-(a.amount_usd||0)).map(f=>`<tr><td class="amt">${E(f.amount_display||f.amount_text)}${f.amount_field=='claim'?' <span class="mut small" title="first $ figure in the receipt text; may be context">(c)</span>':''}</td><td><b>${E(f.from)}</b> → <b>${E(f.to)}</b></td><td class="th" style="white-space:normal">${E(f.type)}${f.label?' · '+E(f.label):''}${f.sequence_only?`<div class="seq">${SEQ}</div>`:''}</td><td><span class="g g${E(f.grade)}">${E(f.grade)}</span>${f.saiddone?`<span class="g g${E(f.saiddone)}">${E(f.saiddone)}</span>`:''}</td><td class="dcol">${E(f.latest_date||f.date_as_filed||'—')}</td></tr>`).join('');
+$('clt').textContent=d.changelog.title;$('clb').innerHTML=d.changelog.html;
+const go=()=>{if(!window.vis)return setTimeout(go,300);const deg={};d.edges.forEach(e=>{deg[e.from]=(deg[e.from]||0)+1;deg[e.to]=(deg[e.to]||0)+1});
+const nodes=new vis.DataSet(d.nodes.map(n=>({id:n.name,label:n.name,title:`${n.name}\n${n.role||''}\n${n.cl||''}`,group:n.cluster,value:deg[n.name]||1})));
+const edges=new vis.DataSet(d.edges.map(e=>({id:e.id,from:e.from,to:e.to,arrows:'to',title:`#${e.n} ${e.from} → ${e.to}\n${e.type}${e.label?' · '+e.label:''} ${e.date||''}\n${e.grade?'grade '+e.grade:'context tie'}${e.sequence_only?'\n'+SEQ:''}`,color:{color:e.kind=='context'?'#555b66':(col[e.category]||'#888'),opacity:.75},dashes:e.sequence_only?[2,4]:e.grade=='I'?[8,6]:false,width:e.kind=='context'?.6:1.4})));
+new vis.Network($('graph'),{nodes,edges},{nodes:{shape:'dot',scaling:{min:6,max:30},font:{color:'#e6e8ec',size:12,strokeWidth:3,strokeColor:'#070b14'}},edges:{smooth:false,arrows:{to:{scaleFactor:.4}}},physics:{solver:'forceAtlas2Based',stabilization:{iterations:250},forceAtlas2Based:{gravitationalConstant:-60,springLength:90}},interaction:{hover:true,tooltipDelay:120}})};go();
+}).catch(e=>{$('summ').textContent='Power map data failed to load: '+e});})();

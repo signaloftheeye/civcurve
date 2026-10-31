@@ -1,0 +1,287 @@
+name,role,cluster,cluster_label,degree_sourced,hops_to_trump,path_to_trump
+Donald Trump,"President (2nd term, 2025-)",gov,Government / White House,68,0,Donald Trump
+JD Vance,"Vice President (2025-); sent letter to Iran SNSC secretary Rezaei proposing renewed talks (WSJ/NYT/Axios, Oct 28 2026)",gov,Government / White House,7,2,JD Vance > Peter Thiel > Donald Trump
+Howard Lutnick,Commerce Secretary; ex-BGC/Cantor chief (ex-BGC whistleblower Andriesz d. Sep 23 2026); Pierre $2B bid terminated Oct 13,gov,Government / White House,5,3,Howard Lutnick > Jeffrey Epstein > Elon Musk > Donald Trump
+Scott Bessent,Treasury Secretary (still in post Oct 15 2026); met Smotrich Mar 2025,gov,Government / White House,7,2,Scott Bessent > Bradley T. Smith > Donald Trump
+Sergio Gor,US Ambassador to India (still in post; Kolkata Oct 12 + Blackstone meet Oct 13),gov,Government / White House,2,1,Sergio Gor > Donald Trump
+Jay Clayton,DNI (Jul 2026-) + WH AI czar (Oct 2026),gov,Government / White House,1,1,Jay Clayton > Donald Trump
+Steve Witkoff,"Special envoy (Mideast, Russia-Ukraine); met Putin in St Petersburg Oct 21 2026 (Hubbard freed; called Putin 'a humanitarian'); Witkoff Capital $100M Twitter co-investor (2022)",gov,Government / White House,9,1,Steve Witkoff > Donald Trump
+Massad Boulos,"Sr adviser, Africa & Arab affairs",gov,Government / White House,2,1,Massad Boulos > Donald Trump
+Charles Kushner,US Ambassador to France & Monaco (still in post Oct 13 2026),gov,Government / White House,4,1,Charles Kushner > Donald Trump
+Kimberly Guilfoyle,Ex-US Ambassador to Greece (resigned Oct 13 2026 after WH ask),gov,Government / White House,1,1,Kimberly Guilfoyle > Donald Trump
+Devin Nunes,"Chair, President's Intel Advisory Bd (since Feb 2025); left Trump Media Apr 21 2026 (salary continuation ended Sep 30 2026)",gov,Government / White House,1,2,Devin Nunes > Trump Media > Donald Trump
+Michael Kratsios,OSTP Director,gov,Government / White House,1,2,Michael Kratsios > Peter Thiel > Donald Trump
+Ken Howery,US Ambassador to Denmark,gov,Government / White House,1,2,Ken Howery > Peter Thiel > Donald Trump
+David Sacks,PCAST co-chair (czar to Mar 2026),gov,Government / White House,4,1,David Sacks > Donald Trump
+Pete Hegseth,"Secretary of War / Defense; fired J-5 director Lt. Gen. Sylvia Oct 2026 over alleged leaking (Parnell: AFOSI probe, DOJ referral)",defense,Defense & Intel,12,2,Pete Hegseth > Elon Musk > Donald Trump
+Stephen Feinberg,Deputy SecDef (ex-Cerberus); brought ex-PE colleague Kollitides in as co-chief of staff (ProPublica),defense,Defense & Intel,3,1,Stephen Feinberg > Donald Trump
+US Army,Army contracting,defense,Defense & Intel,3,3,US Army > Palantir > Stephen Feinberg > Donald Trump
+US Space Force,Space Force contracting,defense,Defense & Intel,2,4,US Space Force > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+Anduril,"Defense tech ($61B val., May 2026)",defense,Defense & Intel,9,3,Anduril > Josh Kushner (Thrive Capital) > Charles Kushner > Donald Trump
+Palmer Luckey,Anduril founder; Meridian co-lead (Sep 2026),defense,Defense & Intel,4,1,Palmer Luckey > Donald Trump
+Trae Stephens,Anduril exec chair + FF partner,defense,Defense & Intel,1,4,Trae Stephens > Anduril > Josh Kushner (Thrive Capital) > Charles Kushner > Donald Trump
+Blue Origin,Bezos launch co. (NSSL),defense,Defense & Intel,1,5,Blue Origin > US Space Force > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+Peter Thiel,"Founders Fund; Palantir chairman; SAID privately Oct 12 2026 the Iran war 'should not have' been launched (Politico audio), still backs Trump",thiel,Thiel network (+ allied VC: a16z),12,1,Peter Thiel > Donald Trump
+Founders Fund,Thiel VC fund,thiel,Thiel network (+ allied VC: a16z),1,4,Founders Fund > Anduril > Josh Kushner (Thrive Capital) > Charles Kushner > Donald Trump
+Valar Ventures,Thiel-co-founded fintech VC,thiel,Thiel network (+ allied VC: a16z),1,3,Valar Ventures > Jeffrey Epstein > Elon Musk > Donald Trump
+Palantir,"Thiel chair, Karp CEO; DoD software",thiel,Thiel network (+ allied VC: a16z),7,2,Palantir > Stephen Feinberg > Donald Trump
+Marc Andreessen,a16z co-founder; Meta director; Defense Policy Bd,thiel,Thiel network (+ allied VC: a16z),3,2,Marc Andreessen > Meta > Donald Trump
+Andreessen Horowitz,VC firm (a16z),thiel,Thiel network (+ allied VC: a16z),4,3,Andreessen Horowitz > Marc Andreessen > Meta > Donald Trump
+Marc Andreessen / Joe Lonsdale,VCs reported asked to aid DOGE,thiel,Thiel network (+ allied VC: a16z),1,,
+Jim O'Neill,Ex-HHS Dep Sec (left Feb 2026),thiel,Thiel network (+ allied VC: a16z),1,2,Jim O'Neill > Peter Thiel > Donald Trump
+Sriram Krishnan,Ex-WH AI adviser (left Jun 2026),thiel,Thiel network (+ allied VC: a16z),1,4,Sriram Krishnan > Andreessen Horowitz > Marc Andreessen > Meta > Donald Trump
+Brian Quintenz,a16z crypto; CFTC nom. pulled 2025,thiel,Thiel network (+ allied VC: a16z),1,4,Brian Quintenz > Andreessen Horowitz > Marc Andreessen > Meta > Donald Trump
+Elon Musk,"SpaceX + Tesla CEO; biggest 2026 donor ($168M to Senate Leadership Fund, America PAC); SpaceX sells Anthropic up to $120.5B compute (S-1); Starshield cap lifted Oct 24 (Ukraine MoD)",musk,Musk network,17,1,Elon Musk > Donald Trump
+SpaceX,"SpaceX (absorbed xAI Feb 2026); Anthropic compute buyer up to $120.5B to 2029 (Anthropic S-1, Oct 26 2026); $561M related-party gain on Boring stake (Q3 10-Q)",musk,Musk network,7,3,SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+GOP 2026 midterms,America PAC 2026 spending,musk,Musk network,1,2,GOP 2026 midterms > Elon Musk > Donald Trump
+DOGE,Musk-led until May 2025,musk,Musk network,1,,
+Jared Kushner,Affinity CEO; informal peace envoy (CREW suit pending); NYT Oct 23 2026: Putin raised Novatek Alaska LNG with him and Witkoff (anon.),trumpbiz,Trump family business & crypto,11,1,Jared Kushner > Donald Trump
+"Trump sons (Don Jr., Eric, Barron)",WLF co-founders,trumpbiz,Trump family business & crypto,1,,
+Donald Trump Jr.,1789 Capital partner; runs Trump trust; with Eric indirect 9.9% of drone maker Powerus via American Ventures (Oct 2026),trumpbiz,Trump family business & crypto,5,4,Donald Trump Jr. > 1789 Capital / Polymarket / Kalshi > Samantha Schwab > Charles Schwab > Donald Trump
+Eric Trump,American Bitcoin CSO; Trump Org deals,trumpbiz,Trump family business & crypto,2,,
+Lara Trump,Fox News weekend host,trumpbiz,Trump family business & crypto,1,4,Lara Trump > Fox News > Pete Hegseth > Elon Musk > Donald Trump
+"Witkoff sons (Zach, Alex)",WLF co-founders (Zach = CEO),trumpbiz,Trump family business & crypto,1,,
+World Liberty Financial,"Trump-family crypto / USD1; 49% sold to Tahnoon-backed Aryam; sued Oct 22 2026 (Greenberg derivative emoluments suit, D.D.C.)",trumpbiz,Trump family business & crypto,4,2,World Liberty Financial > Steve Witkoff > Donald Trump
+American Bitcoin (Hut 8),Nasdaq: ABTC (Hut 8 ~80%),trumpbiz,Trump family business & crypto,1,,
+1789 Capital / Polymarket / Kalshi,Don Jr. fund + prediction mkts,trumpbiz,Trump family business & crypto,2,3,1789 Capital / Polymarket / Kalshi > Samantha Schwab > Charles Schwab > Donald Trump
+Trump Media,DJT: bitcoin treasury; TAE merger pending,trumpbiz,Trump family business & crypto,4,1,Trump Media > Donald Trump
+Saudi PIF,Saudi sovereign fund (MBS-led board),gulf,Gulf sovereign money,2,2,Saudi PIF > Jared Kushner > Donald Trump
+MGX (Abu Dhabi) / Binance,Abu Dhabi state-backed MGX + Binance,gulf,Gulf sovereign money,2,2,MGX (Abu Dhabi) / Binance > Larry Ellison > Donald Trump
+Aryam (Tahnoon),"Abu Dhabi, Tahnoon bin Zayed (UAE NSA)",gulf,Gulf sovereign money,2,2,Aryam (Tahnoon) > Tahnoon bin Zayed > Donald Trump
+Qatari Diar / Dar Global,Qatar state developer + Saudi Dar Global,gulf,Gulf sovereign money,1,,
+Dubai Holding,Dubai state holding (Aither JV),gulf,Gulf sovereign money,1,3,Dubai Holding > Palantir > Stephen Feinberg > Donald Trump
+Mohammed bin Salman,Saudi Crown Prince,gulf,Gulf sovereign money,2,2,Mohammed bin Salman > Peter Thiel > Donald Trump
+Dubai & Qatar rulers,"Sh. Mohammed, bin Sulayem (Dubai); HBJ (Qatar)",gulf,Gulf sovereign money,1,3,Dubai & Qatar rulers > Jeffrey Epstein > Elon Musk > Donald Trump
+Rupert Murdoch,Murdoch family patriarch,media,Media owners & platforms,1,,
+Lachlan Murdoch,Fox/News Corp; trust control to 2050,media,Media owners & platforms,1,,
+Fox News,Murdoch cable news,media,Media owners & platforms,2,3,Fox News > Pete Hegseth > Elon Musk > Donald Trump
+David Ellison,Skydance chair/CEO (CBS + CNN after WBD close Oct 6 2026); Musk ~$1B equity (Oct 2026); father Larry guarantees >$40B of WBD equity,media,Media owners & platforms,6,1,David Ellison > Donald Trump
+Larry Ellison,"Oracle chairman; Skydance backer (personally guarantees >$40B WBD equity, Semafor); $1B into Musk's Twitter (2022); ex-Tesla director",media,Media owners & platforms,8,1,Larry Ellison > Donald Trump
+CNN/CBS + PIF/QIA/L'IMAD,WBD deal closed 2026-10-06,media,Media owners & platforms,1,2,CNN/CBS + PIF/QIA/L'IMAD > David Ellison > Donald Trump
+Bari Weiss,CBS News editor-in-chief,media,Media owners & platforms,1,2,Bari Weiss > David Ellison > Donald Trump
+TikTok USDS JV,Oracle/Silver Lake/MGX 15% each,media,Media owners & platforms,1,2,TikTok USDS JV > Larry Ellison > Donald Trump
+OAN,One America News,media,Media owners & platforms,1,3,OAN > Matt Gaetz > Palmer Luckey > Donald Trump
+Matt Gaetz,OAN host (not in govt),media,Media owners & platforms,5,2,Matt Gaetz > Palmer Luckey > Donald Trump
+Mark Zuckerberg,Meta founder/CEO,media,Media owners & platforms,2,2,Mark Zuckerberg > Meta > Donald Trump
+Meta,Facebook/Instagram parent (CEO Zuckerberg); record ~$97.5B equity raise Oct 2026 for AI build-out; Nvidia $3B + AMD $1B committed,media,Media owners & platforms,7,1,Meta > Donald Trump
+Dana White,UFC CEO; Meta board (2025-),media,Media owners & platforms,1,2,Dana White > Meta > Donald Trump
+Jeff Bezos,Amazon exec chair; owns Blue Origin,media,Media owners & platforms,1,2,Jeff Bezos > Amazon > Donald Trump
+Amazon,Amazon (Melania film license),media,Media owners & platforms,2,1,Amazon > Donald Trump
+George Soros,Soros Fund Mgmt; Key Square anchor,finance,Other finance (cabinet family/funders),1,3,George Soros > Scott Bessent > Bradley T. Smith > Donald Trump
+Brandon & Kyle Lutnick (Cantor),Cantor chair / exec vice chair,finance,Other finance (cabinet family/funders),2,4,Brandon & Kyle Lutnick (Cantor) > Howard Lutnick > Jeffrey Epstein > Elon Musk > Donald Trump
+Jeffrey Epstein,d. 2019 (convicted 2008); estate,epstein,Epstein network 2009-2017 (historical),30,2,Jeffrey Epstein > Elon Musk > Donald Trump
+John Brockman,Literary agent (Edge),epstein,Epstein network 2009-2017 (historical),1,3,John Brockman > Jeffrey Epstein > Elon Musk > Donald Trump
+Larry Summers,Ex-Treas Sec; off OpenAI bd 11/2025; Harvard retired,epstein,Epstein network 2009-2017 (historical),2,3,Larry Summers > Jeffrey Epstein > Elon Musk > Donald Trump
+Joi Ito / MIT DCI,Ex-MIT Media Lab head; DCI launched 2015,epstein,Epstein network 2009-2017 (historical),2,3,Joi Ito / MIT DCI > Jeffrey Epstein > Elon Musk > Donald Trump
+Brock Pierce,Tether co-founder; Blockchain Capital,epstein,Epstein network 2009-2017 (historical),2,3,Brock Pierce > Jeffrey Epstein > Elon Musk > Donald Trump
+Coinbase,"Crypto exchange (Epstein $3M, 2014)",epstein,Epstein network 2009-2017 (historical),2,3,Coinbase > Jeffrey Epstein > Elon Musk > Donald Trump
+Blockstream,Bitcoin infra co. (says fund divested),epstein,Epstein network 2009-2017 (historical),1,3,Blockstream > Jeffrey Epstein > Elon Musk > Donald Trump
+Anne Shere Wallwork,Treasury TFFC Sr Counselor (2014 role),epstein,Epstein network 2009-2017 (historical),2,3,Anne Shere Wallwork > Jeffrey Epstein > Elon Musk > Donald Trump
+Anil Ambani,Indian industrialist,epstein,Epstein network 2009-2017 (historical),3,2,Anil Ambani > Tom Barrack > Donald Trump
+Ehud Barak,Ex-Israeli PM,epstein,Epstein network 2009-2017 (historical),1,3,Ehud Barak > Anil Ambani > Tom Barrack > Donald Trump
+Tom Barrack,US Ambassador to Turkey + Syria envoy (2025-); SAID Oct 23 2026 a US strike on Iran 'this weekend? Absolutely',gov,Government / White House,4,1,Tom Barrack > Donald Trump
+Newt Gingrich,Ex-House Speaker; Project Meridian co-lead (Sep 2026),defense,Defense & Intel,1,3,Newt Gingrich > Pete Hegseth > Elon Musk > Donald Trump
+Callista Gingrich,US Ambassador to Switzerland & Liechtenstein (Oct 2025-),gov,Government / White House,1,1,Callista Gingrich > Donald Trump
+US Navy,Navy contracting,defense,Defense & Intel,1,4,US Navy > Anduril > Josh Kushner (Thrive Capital) > Charles Kushner > Donald Trump
+Blake Masters,Ex-Thiel Capital COO; Defense Policy Board (Jun 2026),thiel,Thiel network (+ allied VC: a16z),1,2,Blake Masters > Peter Thiel > Donald Trump
+Dina Powell McCormick,Meta President & Vice Chair (Jan 2026); ex-Trump Dep. NSA,media,Media owners & platforms,1,2,Dina Powell McCormick > Meta > Donald Trump
+Josh Kushner (Thrive Capital),"Thrive founder (OpenAI, Anduril); Jared's brother; Thrive Holdings agreed Oct 29 2026 to buy ADT ($15.3B EV, Apollo-financed); with Bob Iger buying the Lakers from Mark Walter ($12.5B; terms agreed Oct 30, unsigned, needs NBA approval)",finance,Other finance (cabinet family/funders),5,2,Josh Kushner (Thrive Capital) > Charles Kushner > Donald Trump
+Chris Christie,Ex-US Attorney NJ (2002-08); ex-NJ governor,gov,Government / White House,1,2,Chris Christie > Charles Kushner > Donald Trump
+Henry Cuellar,US Rep. (D-TX-28); pardoned Dec 2025,gov,Government / White House,1,1,Henry Cuellar > Donald Trump
+US DOJ (acting AG Blanche),Justice Dept (Blanche AG since Aug 8 2026); Phang v. Blanche ongoing (ECF 59 compliance Oct 16; DC Cir stay unruled),gov,Government / White House,1,1,US DOJ (acting AG Blanche) > Donald Trump
+Umar Kremlev,IBA president; Putin Order of Friendship 2026,russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,5,Umar Kremlev > Donald Trump Jr. > 1789 Capital / Polymarket / Kalshi > Samantha Schwab > Charles Schwab > Donald Trump
+Vladimir Putin,President of Russia,russia,"Russia ties (Kremlin, oligarch, Lukoil)",11,1,Vladimir Putin > Donald Trump
+Lukoil international assets,~$20B foreign assets; sale pending OFAC,russia,"Russia ties (Kremlin, oligarch, Lukoil)",6,2,Lukoil international assets > Todd Boehly > Donald Trump
+Bettina Anderson,Wife of Donald Trump Jr. (m. May 2026),trumpbiz,Trump family business & crypto,1,5,Bettina Anderson > Donald Trump Jr. > 1789 Capital / Polymarket / Kalshi > Samantha Schwab > Charles Schwab > Donald Trump
+Todd Boehly,Eldridge; Dodgers co-owner (with Mark Walter); Trump donor; leads pending Lukoil international-assets bid,finance,Other finance (cabinet family/funders),3,1,Todd Boehly > Donald Trump
+Al-Khayyat brothers (Qatar),Moutaz & Ramez Al-Khayyat; Kushner partners,gulf,Gulf sovereign money,1,2,Al-Khayyat brothers (Qatar) > Jared Kushner > Donald Trump
+Lunate (Tahnoon),Abu Dhabi fund overseen by Tahnoon; Affinity LP,gulf,Gulf sovereign money,1,2,Lunate (Tahnoon) > Jared Kushner > Donald Trump
+Bobby Kotick,Ex-Activision CEO; Skydance director (Oct 2026),media,Media owners & platforms,1,2,Bobby Kotick > David Ellison > Donald Trump
+"Qatari contacts (Jabor Y., Fawzi Siam)",Epstein 'sharia coin' contacts 2016-17,epstein,Epstein network 2009-2017 (historical),1,3,"Qatari contacts (Jabor Y., Fawzi Siam) > Jeffrey Epstein > Elon Musk > Donald Trump"
+Kirill Dmitriev,RDIF CEO; Putin envoy (OFAC SDN); at Putin-Witkoff talks Oct 21 2026; Witkoff SAID US Treasury is 'working with' him,russia,"Russia ties (Kremlin, oligarch, Lukoil)",8,2,Kirill Dmitriev > Jared Kushner > Donald Trump
+Yuri Ushakov,Putin foreign-policy aide,russia,"Russia ties (Kremlin, oligarch, Lukoil)",2,2,Yuri Ushakov > Steve Witkoff > Donald Trump
+Sergey Lavrov,Russian Foreign Minister,russia,"Russia ties (Kremlin, oligarch, Lukoil)",3,,
+Alexander Novak,Russian Deputy PM (energy),russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,2,Alexander Novak > Vladimir Putin > Donald Trump
+Rick Gerson,Hedge-fund mgr; Kushner friend (2016 channel),finance,Other finance (cabinet family/funders),2,2,Rick Gerson > Jared Kushner > Donald Trump
+Erik Prince,Blackwater founder; Seychelles 2017,defense,Defense & Intel,3,3,Erik Prince > George Nader > Mohamed bin Zayed > Donald Trump
+Marco Rubio,Secretary of State; Pilgrimage Road inauguration with Netanyahu/Huckabee Sep 2025,gov,Government / White House,5,,
+Bradley T. Smith,OFAC Director (career),gov,Government / White House,4,1,Bradley T. Smith > Donald Trump
+Rustem Umerov,Ukraine NSDC secretary; lead negotiator,gov,Government / White House,1,3,Rustem Umerov > Steve Witkoff / Jared Kushner > Vladimir Putin > Donald Trump
+Steve Witkoff / Jared Kushner,US envoys (joint),gov,Government / White House,4,2,Steve Witkoff / Jared Kushner > Vladimir Putin > Donald Trump
+Dan Driscoll,Ex-Army Secretary (resigned Aug 2026),defense,Defense & Intel,1,3,Dan Driscoll > JD Vance > Peter Thiel > Donald Trump
+Abbas Araghchi,Iran Foreign Minister,iran,Iran & Yemen leadership,1,2,Abbas Araghchi > Steve Witkoff > Donald Trump
+Mohammad Bagher Ghalibaf,Iran Parliament Speaker,iran,Iran & Yemen leadership,1,3,Mohammad Bagher Ghalibaf > JD Vance > Peter Thiel > Donald Trump
+Ali Khamenei,Iran Supreme Leader (killed Feb 2026),iran,Iran & Yemen leadership,1,,
+Mojtaba Khamenei,Iran Supreme Leader (Mar 2026-); OFAC SDN,iran,Iran & Yemen leadership,2,,
+Houthis (Ansar Allah),Yemen Houthi movement,iran,Iran & Yemen leadership,1,,
+Abdul-Malik al-Houthi,Houthi leader (UN/OFAC listed),iran,Iran & Yemen leadership,1,,
+Tahnoon bin Zayed,UAE NSA; MGX/ADIA/Aryam,gulf,Gulf sovereign money,6,1,Tahnoon bin Zayed > Donald Trump
+Mohamed bin Zayed,UAE President,gulf,Gulf sovereign money,3,1,Mohamed bin Zayed > Donald Trump
+Mohammed bin Abdulrahman Al Thani,Qatar PM & FM; mediator,gulf,Gulf sovereign money,2,2,Mohammed bin Abdulrahman Al Thani > Tamim bin Hamad Al Thani > Donald Trump
+Benjamin Netanyahu,"Israeli PM (caretaker); CEC count Oct 28 2026: his bloc 53, opposition 48, Arab parties 19, no majority; Likud SAID vote 'stolen'",gov,Government / White House,4,1,Benjamin Netanyahu > Donald Trump
+Ron Dermer,Ex-Israeli Strategic Affairs Min.; envoy,gov,Government / White House,1,2,Ron Dermer > Benjamin Netanyahu > Donald Trump
+Todd Blanche,Attorney General (confirmed Aug 8 2026); ex-Trump defense lawyer; his ODAG received 'classified' Epstein items Mar 25 2025 (DOJ docs via CBS) though he SAID nothing withheld on that basis; defendant in Phang v. Blanche (DC Cir denied DOJ stay Oct 28 2026),gov,Government / White House,4,1,Todd Blanche > Donald Trump
+Ghislaine Maxwell,Convicted Epstein accomplice (FPC Bryan),epstein,Epstein network 2009-2017 (historical),2,2,Ghislaine Maxwell > Todd Blanche > Donald Trump
+Gwendolyn Beck,2014 VA-8 independent candidate,epstein,Epstein network 2009-2017 (historical),1,3,Gwendolyn Beck > Jeffrey Epstein > Elon Musk > Donald Trump
+Sarah Kellen / Lesley Groff,Epstein assistants; NPA-named,epstein,Epstein network 2009-2017 (historical),1,3,Sarah Kellen / Lesley Groff > Jeffrey Epstein > Elon Musk > Donald Trump
+Jean-Luc Brunel,"Model agent, MC2 (d. 2022)",epstein,Epstein network 2009-2017 (historical),1,3,Jean-Luc Brunel > Jeffrey Epstein > Elon Musk > Donald Trump
+Jes Staley,Ex-JPMorgan/Barclays; FCA-banned,epstein,Epstein network 2009-2017 (historical),1,3,Jes Staley > Jeffrey Epstein > Elon Musk > Donald Trump
+Leon Black,Apollo co-founder,epstein,Epstein network 2009-2017 (historical),1,3,Leon Black > Jeffrey Epstein > Elon Musk > Donald Trump
+Les Wexner,L Brands founder,epstein,Epstein network 2009-2017 (historical),1,3,Les Wexner > Jeffrey Epstein > Elon Musk > Donald Trump
+Ro Khanna,Rep. (D-CA); EFTA author,gov,Government / White House,1,,
+Thomas Massie,Rep. (R-KY); EFTA co-lead,gov,Government / White House,1,,
+Miriam Adelson,GOP megadonor; Las Vegas Sands,finance,Other finance (cabinet family/funders),1,1,Miriam Adelson > Donald Trump
+America PAC,Musk super PAC (2024: $261M spent),musk,Musk network,3,1,America PAC > Donald Trump
+Chamath Palihapitiya,Social Capital; All-In co-host,thiel,Thiel network (+ allied VC: a16z),1,2,Chamath Palihapitiya > David Sacks > Donald Trump
+Kevin Warsh,"Fed chair (confirmed May 13 2026, 54-45; oath May 22); still in post Oct 16 2026",finance,Other finance (cabinet family/funders),3,1,Kevin Warsh > Donald Trump
+Ronald Lauder,Estee Lauder heir; WJC president; Trump friend,finance,Other finance (cabinet family/funders),3,1,Ronald Lauder > Donald Trump
+Pam Bondi,Ex-Attorney General (removed Apr 2 2026),gov,Government / White House,4,1,Pam Bondi > Donald Trump
+Qatar (Embassy) via Ballard Partners,Qatar FARA principal (2018-20),gulf,Gulf sovereign money,2,2,Qatar (Embassy) via Ballard Partners > Pam Bondi > Donald Trump
+Kash Patel / Dan Bongino,FBI Director / ex-Deputy Director,gov,Government / White House,1,2,Kash Patel / Dan Bongino > Pam Bondi > Donald Trump
+Lindsey Halligan,Ex-interim US Atty EDVA (ruled invalid),gov,Government / White House,1,2,Lindsey Halligan > Pam Bondi > Donald Trump
+Khalid bin Salman,Saudi Defense Minister,gulf,Gulf sovereign money,1,3,Khalid bin Salman > Pete Hegseth > Elon Musk > Donald Trump
+Faisal bin Farhan,Saudi Foreign Minister,gulf,Gulf sovereign money,1,,
+Volodymyr Zelensky,President of Ukraine,gov,Government / White House,1,,
+Kyrylo Budanov,Head of Ukraine Presidential Office (Jan 2026-),gov,Government / White House,1,,
+Kyrylo Budanov / Davyd Arakhamia,Ukraine negotiators,gov,Government / White House,1,3,Kyrylo Budanov / Davyd Arakhamia > Steve Witkoff / Jared Kushner > Vladimir Putin > Donald Trump
+Ahmad Vahidi,IRGC commander-in-chief (Mar 2026-),iran,Iran & Yemen leadership,2,,
+IRGC,Iran Revolutionary Guards,iran,Iran & Yemen leadership,1,,
+Nadia Marcinkova / Adriana Ross,Epstein associates; NPA-named,epstein,Epstein network 2009-2017 (historical),1,3,Nadia Marcinkova / Adriana Ross > Jeffrey Epstein > Elon Musk > Donald Trump
+Kevin Hassett,NEC director,gov,Government / White House,1,1,Kevin Hassett > Donald Trump
+Stephen Miran,Fed governor (ex-CEA chair),gov,Government / White House,1,1,Stephen Miran > Donald Trump
+Qatar Investment Authority,Qatar sovereign fund,gulf,Gulf sovereign money,1,2,Qatar Investment Authority > Steve Witkoff > Donald Trump
+Joe Lonsdale,8VC; Palantir co-founder,thiel,Thiel network (+ allied VC: a16z),1,2,Joe Lonsdale > America PAC > Donald Trump
+Rick Stover (BOP),BOP special asst. to director,gov,Government / White House,1,3,Rick Stover (BOP) > Ghislaine Maxwell > Todd Blanche > Donald Trump
+Masayoshi Son,"SoftBank CEO; Stargate chair; seeking up to $100bn Gulf capital (SAID, FT Oct 9)",finance,Other finance (cabinet family/funders),2,1,Masayoshi Son > Donald Trump
+Jerome Powell,Ex-Fed chair (term ended May 2026),gov,Government / White House,2,1,Jerome Powell > Donald Trump
+George Nader,Ex-MBZ adviser (convicted 2020),gulf,Gulf sovereign money,2,2,George Nader > Mohamed bin Zayed > Donald Trump
+Steve Bannon,War Room host; ex-WH strategist,media,Media owners & platforms,1,4,Steve Bannon > Erik Prince > George Nader > Mohamed bin Zayed > Donald Trump
+ICE,"Immigration & Customs Enforcement (DHS; Sec. Markwayne Mullin); DHS bought CoreCivic's Prairie prison for $495.6M (Aug 2026), CoreCivic runs it for ICE to 2031",gov,Government / White House,2,2,ICE > CoreCivic (private prisons / ICE detention) > Donald Trump
+Mike Waltz,Ex-NSA; UN Ambassador,gov,Government / White House,1,,
+Tamim bin Hamad Al Thani,Emir of Qatar,gulf,Gulf sovereign money,2,1,Tamim bin Hamad Al Thani > Donald Trump
+Gunvor,Swiss commodity trader,russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,3,Gunvor > Scott Bessent > Bradley T. Smith > Donald Trump
+Carlyle,"US private equity; Lukoil (LIG) agreement lapsed end-July 2026, pursuit dropped; Bush Sr. senior adviser 1998-2003",finance,Other finance (cabinet family/funders),2,3,Carlyle > Lukoil international assets > Todd Boehly > Donald Trump
+Ahmed al-Sharaa,President of Syria,gov,Government / White House,2,1,Ahmed al-Sharaa > Donald Trump
+Sam Altman,OpenAI CEO,finance,Other finance (cabinet family/funders),2,1,Sam Altman > Donald Trump
+G42,Abu Dhabi AI group,gulf,Gulf sovereign money,3,2,G42 > Sam Altman > Donald Trump
+Russ Vought,OMB Director,gov,Government / White House,1,2,Russ Vought > Jerome Powell > Donald Trump
+International Holding Company (IHC),Abu Dhabi conglomerate (Tahnoon chair),gulf,Gulf sovereign money,2,2,International Holding Company (IHC) > Tahnoon bin Zayed > Donald Trump
+US DFC,US Intl Development Finance Corp.,gov,Government / White House,1,3,US DFC > Lukoil international assets > Todd Boehly > Donald Trump
+Scott Bessent / Howard Lutnick,Treasury / Commerce secretaries,gov,Government / White House,1,3,Scott Bessent / Howard Lutnick > Kirill Dmitriev > Jared Kushner > Donald Trump
+Reid Hoffman,LinkedIn co-founder; Greylock partner; Democratic megadonor,epstein,Epstein network 2009-2017 (historical),1,3,Reid Hoffman > Jeffrey Epstein > Elon Musk > Donald Trump
+International Criminal Court,The Hague court; designated by US Oct 9 2026,gov,Government / White House,1,,
+Katie Zacharia,"Ex-WH press secretary (named Oct 9; out Oct 16 2026; post still vacant Oct 21, no pick before Nov 3 per Cheung); ex-TMTG comms; listed GC of Grenell's Fix California 2024-25",gov,Government / White House,3,1,Katie Zacharia > Donald Trump
+Trevor Milton,Nikola founder; fraud conviction 2022; pardoned Mar 2025,finance,Other finance (cabinet family/funders),3,1,Trevor Milton > Donald Trump
+MAHA Alliance PAC,Super PAC aligned with RFK Jr.'s MAHA agenda,finance,Other finance (cabinet family/funders),1,2,MAHA Alliance PAC > Trevor Milton > Donald Trump
+Robert F. Kennedy Jr.,HHS Secretary; disclosed $4M Skyhorse advances + ~$270K de Becker gifts (Sep 2026); adviser Calley Means resigned Oct 22 2026,gov,Government / White House,4,2,Robert F. Kennedy Jr. > Trevor Milton > Donald Trump
+Kimbal Musk,Tesla board; Elon's brother; ex-SpaceX board,musk,Musk network,1,3,Kimbal Musk > Jeffrey Epstein > Elon Musk > Donald Trump
+Gino Yu,HK PolyU assoc. prof; consciousness-research pipeline,epstein,Epstein network 2009-2017 (historical),1,3,Gino Yu > Jeffrey Epstein > Elon Musk > Donald Trump
+Brad Parscale,Clock Tower X LLC sole member; Trump 2020 campaign manager,gov,Government / White House,2,,
+State of Israel,Foreign principal on FARA reg 7649 (via Havas),gov,Government / White House,1,,
+Clock Tower X LLC,FARA registrant 7649; Parscale-owned single-member LLC,gov,Government / White House,1,,
+Cross River Bank,Fort Lee NJ sponsor bank; embedded banking for X Money,finance,Other finance (cabinet family/funders),1,,
+X (X Corp) / X Money,X social platform + embedded X Money payments,musk,Musk network,1,,
+Phang (EFTA plaintiff),"Plaintiff in Phang v. Blanche, D.D.C. 1:26-cv-01417 (EFTA)",epstein,Epstein network 2009-2017 (historical),1,2,Phang (EFTA plaintiff) > Todd Blanche > Donald Trump
+Mark Levin,Fox News / talk-radio host; Trump & Netanyahu ally,media,Media owners & platforms,1,5,Mark Levin > David Milstein > Mike Huckabee > Mike Johnson > Benjamin Netanyahu > Donald Trump
+David Milstein,Senior adviser / de facto CoS to Amb. Mike Huckabee (Apr 2025-); Levin stepson,gov,Government / White House,2,4,David Milstein > Mike Huckabee > Mike Johnson > Benjamin Netanyahu > Donald Trump
+Mike Huckabee,US Ambassador to Israel (2025-); Ariel visit + Pilgrimage Road + Shiloh dinner Aug/Sep 2025,gov,Government / White House,2,3,Mike Huckabee > Mike Johnson > Benjamin Netanyahu > Donald Trump
+Charles Schwab,"Founder, Charles Schwab Corp.; $1M to 2017 Trump inaugural",finance,Other finance (cabinet family/funders),2,1,Charles Schwab > Donald Trump
+Samantha Schwab,Adviser to Fed Chair Warsh (named Jul 2026); ex-Bessent principal deputy CoS; Charles Schwab granddaughter,finance,Other finance (cabinet family/funders),4,2,Samantha Schwab > Charles Schwab > Donald Trump
+Motasem Khashoggi,"Saudi investor (Sabre Park Avenue LLC); failed $2B Pierre bid, terminated Oct 13 2026",gulf,Gulf sovereign money,1,4,Motasem Khashoggi > Howard Lutnick > Jeffrey Epstein > Elon Musk > Donald Trump
+Alina Habba,"Ex-Trump personal attorney; ex-US attorney NJ; DOJ SGE senior adviser to AG Bondi 2025-26; Concord Partners (Herrera family) GC since Jan 1 2026, >$50M/4 yrs (NYT); Trump SAID (anon., NYT Oct 29) she should give part to his library; she denies any pardon role; married Turhan Mildon Sep 2026",gov,Government / White House,4,1,Alina Habba > Donald Trump
+Turhan Mildon,Turkish billionaire businessman (Venezuela interests); Habba's husband; Kennedy Center donor,finance,Other finance (cabinet family/funders),2,2,Turhan Mildon > Alina Habba > Donald Trump
+Ric Grenell,Trump envoy for special missions; ex-Kennedy Center president; runs nonprofit Fix California (Zacharia its listed GC 2024-25); consulted for TX-AT in 2024 (SAID); WH Counsel Scharf reviewing the Mildon gift,gov,Government / White House,4,1,Ric Grenell > Donald Trump
+CREW,Citizens for Responsibility and Ethics in Washington (watchdog; plaintiff v. Kushner),gov,Government / White House,1,2,CREW > Jared Kushner > Donald Trump
+ADL (Jonathan Greenblatt),Anti-Defamation League; CEO Jonathan Greenblatt,media,Media owners & platforms,1,,
+"Frontier AI labs (OpenAI, Anthropic, Google, Meta)",Frontier model makers (named by Greenblatt),media,Media owners & platforms,2,,
+Religious Zionist rabbis (Lior/Eliyahu et al.),"Signatories incl. Dov Lior, Shmuel Eliyahu, Elyakim Levanon (Ynet Jul 2025)",gov,Government / White House,1,,
+Bezalel Smotrich / Itamar Ben Gvir,Israeli Finance Minister (Smotrich) + National Security Minister (Ben Gvir),gov,Government / White House,1,,
+Bezalel Smotrich,Israeli Finance Minister (Religious Zionism); Bessent meet Mar 2025,gov,Government / White House,2,3,Bezalel Smotrich > Scott Bessent > Bradley T. Smith > Donald Trump
+Itamar Ben Gvir,Israeli National Security Minister (Otzma Yehudit); US GOP meetings Apr 2025,gov,Government / White House,1,,
+Religious Zionist rabbis (the Five / Yehoshua Shapira),Rabbinic circle Smotrich says he consults (NPR); Yehoshua Shapira named,gov,Government / White House,1,4,Religious Zionist rabbis (the Five / Yehoshua Shapira) > Bezalel Smotrich > Scott Bessent > Bradley T. Smith > Donald Trump
+Rabbi Shmuel Eliyahu,Safed municipal chief rabbi; signed Jul 2025 Smotrich/Ben Gvir letter,gov,Government / White House,1,,
+Amichai Eliyahu,Israeli Heritage Minister (Otzma Yehudit); son of Rabbi Shmuel Eliyahu,gov,Government / White House,1,,
+Benjamin Netanyahu / Mike Huckabee / Elad (City of David),Joint inauguration parties at City of David Pilgrimage Road (Sep 2025),gov,Government / White House,1,,
+Mike Johnson,Speaker of the US House (R-LA); Ariel/Shiloh visits Aug 4 2025,gov,Government / White House,2,2,Mike Johnson > Benjamin Netanyahu > Donald Trump
+Errol Musk,Elon Musk's father; SAID Netanyahu is family friend (I only),musk,Musk network,1,2,Errol Musk > Benjamin Netanyahu > Donald Trump
+House GOP (Emmer / Mast / Jordan / Tenney / Lawler),"House Majority Whip Tom Emmer; Reps Mast, Jordan, Tenney, Lawler (Apr 2025 Ben Gvir meetings)",gov,Government / White House,1,,
+Katie Bailey,WH Director of Legislative Affairs (named Oct 10 2026); ex-deputy OLA,gov,Government / White House,1,1,Katie Bailey > Donald Trump
+Keith Sonderling,"US Secretary of Labor (confirmed Sep 30 2026, 47-41; sworn Oct 2)",gov,Government / White House,1,1,Keith Sonderling > Donald Trump
+Susie Wiles,White House Chief of Staff (2025-); met Srpska's Cvijanovic at WH Sep 2026,gov,Government / White House,2,5,Susie Wiles > Katie Wiles > Continental Strategy (Alex Garcia et al.) > Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+Katie Wiles,"Partner, Continental Strategy; daughter of WH CoS Susie Wiles; Srpska trip Aug 2026",finance,Other finance (cabinet family/funders),3,4,Katie Wiles > Continental Strategy (Alex Garcia et al.) > Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+Continental Strategy (Alex Garcia et al.),DC lobbying firm founded by a former Trump ambassador; partners incl. Alex Garcia (ex-Trump 2024 deputy political director) and Katie Wiles; FARA registrant for Republika Srpska,finance,Other finance (cabinet family/funders),3,3,Continental Strategy (Alex Garcia et al.) > Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+Republika Srpska govt (Dodik / SNSD),Pro-Russian Bosnian Serb entity govt; party leader Milorad Dodik (US sanctions 2017-Oct 29 2025); SNSD won Oct 4 2026 vote,russia,"Russia ties (Kremlin, oligarch, Lukoil)",4,2,Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+Zeljka Cvijanovic (Srpska / SNSD),"Bosnian Presidency member (SNSD), close Dodik ally; delisted by OFAC Oct 29 2025",russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,6,Zeljka Cvijanovic (Srpska / SNSD) > Susie Wiles > Katie Wiles > Continental Strategy (Alex Garcia et al.) > Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+James Blair / Chris LaCivita (MAGA Inc.),"Blair: ex-WH deputy CoS, now leads MAGA Inc. + midterm strategy; LaCivita: Trump 2024 co-campaign manager, MAGA Inc. senior adviser (outside consultants)",gov,Government / White House,1,3,James Blair / Chris LaCivita (MAGA Inc.) > Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+Michael Flynn,"Ex-Trump national security adviser (Jan-Feb 2017); ret. Lt Gen; RT-paid Moscow gala 2015; pleaded guilty 2017 (Kislyak calls), pardoned Nov 2020; Srpska FARA lobbyist 2025; brother of Joseph Flynn (AAFS) and Charles Flynn (Palantir)",defense,Defense & Intel,4,1,Michael Flynn > Donald Trump
+AAFS Infrastructure & Energy (Binnall / Joseph Flynn),US co. (inc. 2025) headed by ex-Trump personal attorney Jesse Binnall and Joseph Flynn (Michael Flynn's brother); lead developer Bosnia-Croatia gas pipeline (>$1.5B project),finance,Other finance (cabinet family/funders),1,3,AAFS Infrastructure & Energy (Binnall / Joseph Flynn) > Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+America First Refining / TXC Energy (John Calce),Brownsville TX refinery startup run by John V. Calce (TXC Energy same Addison TX address); >=$100M Reliance investment Mar 2026; Cantor adviser,trumpbiz,Trump family business & crypto,4,4,America First Refining / TXC Energy (John Calce) > Continental Strategy (Alex Garcia et al.) > Republika Srpska govt (Dodik / SNSD) > Michael Flynn > Donald Trump
+Simon Andriesz,"Ex-senior BGC Partners employee; Lutnick-Epstein whistleblower (FCA/FBI); d. Thailand Sep 23 2026 (family: suicide, no foul play)",finance,Other finance (cabinet family/funders),1,4,Simon Andriesz > Howard Lutnick > Jeffrey Epstein > Elon Musk > Donald Trump
+TX-AT (Texas defense/security equipment co.),Texas defense & security equipment company; recipient of Mildon's May 2025 $17.6M wire per Habba (unverified),defense,Defense & Intel,2,2,TX-AT (Texas defense/security equipment co.) > Ric Grenell > Donald Trump
+Binance (Changpeng Zhao),"Crypto exchange; founder Changpeng Zhao pardoned Oct 21 2025 (DOJ list); $500M Twitter co-investor 2022, now SAID to be >$1B of SpaceX shares (CZ, Oct 30 2026); ~$6.3B hot-wallet hack Oct 29 2026 (TRM/Chainalysis: North Korea's TraderTraitor)",finance,Other finance (cabinet family/funders),2,2,Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+Qatar Holding (QIA),Qatar Investment Authority's direct-investment arm; $375M Twitter co-investor 2022,gulf,Gulf sovereign money,1,2,Qatar Holding (QIA) > Elon Musk > Donald Trump
+US DOE (Sec. Chris Wright),"Energy Department, Secretary Chris Wright; DPA Title III pipeline funding (Presidential Determination 2026-12)",gov,Government / White House,1,,
+Williams Cos. (Constitution Pipeline),"Pipeline operator; Constitution Pipeline PA-NY (125 mi), no permits as of Oct 19 2026",finance,Other finance (cabinet family/funders),1,,
+Andrew Puzder (US Ambassador to EU),US Ambassador to the EU; Oct 18 2026 warned of 'devastating' retaliation over EU satellite-spectrum plan,gov,Government / White House,1,4,Andrew Puzder (US Ambassador to EU) > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+John G. Trump (1907-1985),"The President's paternal uncle; MIT EE; NDRC Div. 14 (radar) technical aide; sole assessor of Tesla's papers for the Office of Alien Property, Jan 30 1943; National Medal of Science (1983 citation)",defense,Defense & Intel,1,1,John G. Trump (1907-1985) > Donald Trump
+DRC Finance Ministry (Kinshasa),"Congo (Kinshasa) 'Ministere des Finances', named as sender of the May 29 2025 $17.6M wire to TX-AT by an unnamed WH official (Axios Oct 19 2026)",finance,Other finance (cabinet family/funders),1,3,DRC Finance Ministry (Kinshasa) > TX-AT (Texas defense/security equipment co.) > Ric Grenell > Donald Trump
+Abdulrahman Alfozan (ex-OpenAI engineer),"Saudi national, ex-OpenAI engineer; charged 18 USC 2511 (hidden recorder); detained without bail Oct 19 2026; next hearing Nov 6; no espionage/FARA charge",gulf,Gulf sovereign money,2,,
+Saudi royal (unnamed in DOJ memo),"Member of the Saudi royal family, unnamed in the N.D. Cal. detention memo; pitched a Saudi AI initiative to Alfozan",gulf,Gulf sovereign money,1,,
+Shawn Ryan (podcast host),Shawn Ryan Show host (ex-Navy SEAL/CIA contractor per his bio); self-disclosed investor in Anduril (Oct 2025) and Shield AI (Nov 2025),media,Media owners & platforms,1,4,Shawn Ryan (podcast host) > Anduril > Josh Kushner (Thrive Capital) > Charles Kushner > Donald Trump
+US Dept of War (Pentagon),Department of War (Sec. Hegseth); CIO enterprise agreements,defense,Defense & Intel,1,2,US Dept of War (Pentagon) > Larry Ellison > Donald Trump
+Friends of the IDF (FIDF),US nonprofit supporting Israeli soldiers; record $16.6M Ellison gift Nov 2017,defense,Defense & Intel,1,2,Friends of the IDF (FIDF) > Larry Ellison > Donald Trump
+US Export-Import Bank (EXIM),Federal export-credit agency; Chairman John Jovanovic (joined Trump in the Oval for the Mesabi announcement Sep 28 2026),gov,Government / White House,1,2,US Export-Import Bank (EXIM) > Mesabi Metallics > Donald Trump
+Mesabi Metallics,"Essar Group (Ruia family) iron-ore company, Nashwauk MN; owes MN ~$21.7M on a $65M state loan; $15B Iowa steel mill announced in the Oval Sep 28 2026",finance,Other finance (cabinet family/funders),4,1,Mesabi Metallics > Donald Trump
+Jason Miller,Senior White House messaging adviser (rejoined Jul 2026); longtime Trump political adviser; Mesabi Metallics' registered federal lobbyist via SHW Partners (2025-26 LDA),gov,Government / White House,2,1,Jason Miller > Donald Trump
+The Metals Royalty Company (TMCR),Nasdaq-listed royalty financier (CEO Brian Paes-Braga; co-chair Michael Hess); no revenue; holds 2.0% Mesabi royalty; Yorkville-financed,finance,Other finance (cabinet family/funders),3,2,The Metals Royalty Company (TMCR) > Mesabi Metallics > Donald Trump
+John Hess,"Ex-CEO Hess Corp (sold to Chevron, $53B, 2025); Trump donor Trump calls 'a friend of mine for a long time'; 5% of TMCR (son Michael 5.2%, co-chair)",finance,Other finance (cabinet family/funders),2,3,John Hess > The Metals Royalty Company (TMCR) > Mesabi Metallics > Donald Trump
+MAGA Inc. (pro-Trump super PAC),Trump-aligned super PAC (FEC C00892471); led by James Blair; $164M cash after $277M spent (Oct 20 2026 filing); pays Leavitt + Buskirk,gov,Government / White House,5,3,MAGA Inc. (pro-Trump super PAC) > Isabela Herrera (Concord Partners / Banvelca) > Alina Habba > Donald Trump
+Yorkville Advisors,"New Jersey investment firm; bought ~$450M of Trump Media stock, sponsors/manages Trump Media's ETFs, advises on the TAE fusion merger; finances TMCR",finance,Other finance (cabinet family/funders),2,2,Yorkville Advisors > Trump Media > Donald Trump
+Julio Herrera Velutini,"Venezuelan-Italian billionaire banker (Herrera family, Banvelca); charged 2022 in a Puerto Rico bribery case, pled to a misdemeanor Aug 2025; pardoned Jan 2026",finance,Other finance (cabinet family/funders),2,1,Julio Herrera Velutini > Donald Trump
+Isabela Herrera (Concord Partners / Banvelca),"Julio Herrera Velutini's daughter (27, US citizen); set up Concord Partners (FL, Oct 2025); MAGA Inc. donor $3.5M; ballroom pledge $2.5M; leads Banvelca since Jul 2026",finance,Other finance (cabinet family/funders),3,2,Isabela Herrera (Concord Partners / Banvelca) > Alina Habba > Donald Trump
+UK Ministry of Defence (Sec. Wes Streeting),UK Defence Ministry; Defence Secretary Wes Streeting (Labour government); BAE Systems is the Saudi Typhoon supplier,defense,Defense & Intel,1,,
+Kingdom of Saudi Arabia,Saudi state (King Salman; Crown Prince/PM Mohammed bin Salman; Defence Minister Khalid bin Salman),gulf,Gulf sovereign money,1,,
+Melania Trump,First Lady (2025-); wrote Putin a letter on children (Aug 2025); Amazon licensed her documentary ($40M),gov,Government / White House,1,2,Melania Trump > Vladimir Putin > Donald Trump
+RT (Russian state TV),Russian state-funded broadcaster,russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,2,RT (Russian state TV) > Michael Flynn > Donald Trump
+Sergey Kislyak (ex-Russian ambassador to US),Russian ambassador to the US 2008-2017,russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,2,Sergey Kislyak (ex-Russian ambassador to US) > Michael Flynn > Donald Trump
+"Charles Flynn (ret. Gen., Michael Flynn's brother)",Ret. US Army general; Commanding General US Army Pacific 2021-24; Palantir senior adviser; brother of Michael Flynn,defense,Defense & Intel,1,3,"Charles Flynn (ret. Gen., Michael Flynn's brother) > Palantir > Stephen Feinberg > Donald Trump"
+George H. W. Bush,"41st US President (1989-93), ex-CIA director; father of President George W. Bush; Carlyle senior adviser (d. 2018)",finance,Other finance (cabinet family/funders),1,4,George H. W. Bush > Carlyle > Lukoil international assets > Todd Boehly > Donald Trump
+Stephen Schwarzman (Blackstone CEO),"Blackstone co-founder, chairman and CEO; MAGA Inc. donor; Blackstone funds anchor Anthropic's $63B North Star chip financing (FT, people familiar)",finance,Other finance (cabinet family/funders),2,4,Stephen Schwarzman (Blackstone CEO) > MAGA Inc. (pro-Trump super PAC) > Isabela Herrera (Concord Partners / Banvelca) > Alina Habba > Donald Trump
+GEO Group (private prisons / ICE detention),Private prison and immigration-detention operator; major federal (ICE) contractor,defense,Defense & Intel,1,4,GEO Group (private prisons / ICE detention) > MAGA Inc. (pro-Trump super PAC) > Isabela Herrera (Concord Partners / Banvelca) > Alina Habba > Donald Trump
+Karoline Leavitt / Chris Buskirk,"Leavitt: WH press secretary Jan 2025 - Aug 27 2026, now paid MAGA Inc. adviser; Buskirk: co-founder/CIO of 1789 Capital (Don Jr. a partner since Nov 2024), paid MAGA Inc. adviser",trumpbiz,Trump family business & crypto,1,4,Karoline Leavitt / Chris Buskirk > MAGA Inc. (pro-Trump super PAC) > Isabela Herrera (Concord Partners / Banvelca) > Alina Habba > Donald Trump
+National Capital Planning Commission (chair Mark Paoletta),Federal planning body for DC-area federal construction; chaired by Trump WH official Mark Paoletta; approved the WH ballroom; votes Nov 5 2026 on Trump's arch,gov,Government / White House,1,3,National Capital Planning Commission (chair Mark Paoletta) > Pete Hegseth > Elon Musk > Donald Trump
+Ukraine armed forces (Starshield terminals),Ukraine's military users of SpaceX Starshield/Starlink terminals (US government pays for Starshield per CBS),gov,Government / White House,1,2,Ukraine armed forces (Starshield terminals) > Elon Musk > Donald Trump
+Tesla,Musk-led EV/energy company (CEO Elon Musk); bought SolarCity 2016,musk,Musk network,1,4,Tesla > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+"J. Benjamin Greenberg (Circle shareholder, derivative plaintiff)",Circle Internet Group shareholder and ex-employee; filed derivative emoluments suit vs Trump/WLF/Witkoff Oct 22 2026,finance,Other finance (cabinet family/funders),1,3,"J. Benjamin Greenberg (Circle shareholder, derivative plaintiff) > World Liberty Financial > Steve Witkoff > Donald Trump"
+Calley Means,Ex-senior adviser to HHS Secretary RFK Jr. (resigned Oct 22 2026); MAHA figure; TrueMed co-founder,gov,Government / White House,1,3,Calley Means > Robert F. Kennedy Jr. > Trevor Milton > Donald Trump
+Dutch military intelligence (MIVD),Netherlands Military Intelligence and Security Service,defense,Defense & Intel,1,2,Dutch military intelligence (MIVD) > Jared Kushner > Donald Trump
+AIPAC / United Democracy Project,Pro-Israel lobby AIPAC and its super PAC UDP; SAID Oct 22 2026 it will stop endorsements and direct PAC giving,finance,Other finance (cabinet family/funders),1,,
+Mike Rogers,"Republican US Senate nominee, Michigan (2026); ex-House Intelligence chair",gov,Government / White House,1,,
+UAE state investors (Boring Series D lead),'The United Arab Emirates and affiliated investment entities' (company statement); Dubai's Shamal Holding confirmed a stake; individual state vehicles not named,gulf,Gulf sovereign money,1,5,UAE state investors (Boring Series D lead) > The Boring Company > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+The Boring Company,"Musk tunnelling company (spun out of SpaceX 2018); $3B Series D led by UAE, $23B valuation (Sep 2026); Musk holds controlling vote",musk,Musk network,2,4,The Boring Company > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+Tony Lyons (Skyhorse Publishing),Skyhorse Publishing owner; president of MAHA Center nonprofit; Kennedy's publisher,media,Media owners & platforms,1,3,Tony Lyons (Skyhorse Publishing) > Robert F. Kennedy Jr. > Trevor Milton > Donald Trump
+Gavin de Becker,Security consultant; Skyhorse author ('Forbidden Facts'); Kennedy's donor and friend,finance,Other finance (cabinet family/funders),1,3,Gavin de Becker > Robert F. Kennedy Jr. > Trevor Milton > Donald Trump
+Germany (Federal Government),German federal government; FM Johann Wadephul SAID Oct 2026 Germany pays for Ukraine's Starshield service,gov,Government / White House,1,4,Germany (Federal Government) > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+Senate Leadership Fund,"GOP's main Senate super PAC (aligned with Senate GOP leadership); record $272.9M Q3 2026, Musk ~58% of it",finance,Other finance (cabinet family/funders),1,2,Senate Leadership Fund > Elon Musk > Donald Trump
+Anthropic,"AI lab (PBC); S-1 public Oct 26 2026 (ticker ANT); compute commitments: SpaceX up to $120.5B, Google >=$114.5B, Amazon >=$110B, Microsoft >=$44.9B; $63B North Star chip financing anchored by Blackstone (FT)",media,Media owners & platforms,2,4,Anthropic > SpaceX > Binance (Changpeng Zhao) > Elon Musk > Donald Trump
+Powerus Corporation,Florida drone/counter-drone maker (Nasdaq PUSA since Oct 1 2026); USAF Guardian-2 IDIQ up to $90M; $82M counter-UAS order Oct 2026; plans to import Ukrainian drone tech for the Pentagon,defense,Defense & Intel,2,5,Powerus Corporation > Donald Trump Jr. > 1789 Capital / Polymarket / Kalshi > Samantha Schwab > Charles Schwab > Donald Trump
+Keith Kellogg,Retired Lt. Gen.; former Trump special envoy for Ukraine and Russia (2025); Powerus advisory board,gov,Government / White House,1,6,Keith Kellogg > Powerus Corporation > Donald Trump Jr. > 1789 Capital / Polymarket / Kalshi > Samantha Schwab > Charles Schwab > Donald Trump
+Novatek,Russian LNG producer (CEO Leonid Mikhelson; deputy chair Denis Solovyov); OFAC sectoral sanctions since 2014; Arctic LNG 2 SDN,russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,,
+"Polar LNG (Tech Wave, Abu Dhabi)",Alaska North Slope LNG start-up; parent Tech Wave Industrial Projects Management (Abu Dhabi); plans a Novatek gravity-based structure at Milne Point; ~$380K/quarter DC lobbying,russia,"Russia ties (Kremlin, oligarch, Lukoil)",1,,
+Nvidia,AI chipmaker (CEO Jensen Huang); $3B into Meta's Oct 2026 equity offering; NYT Oct 29 2026 (anon.): Megaspeed exec close to Huang seen as Chinese asset; Nvidia SAID contacts ordinary,media,Media owners & platforms,2,2,Nvidia > Meta > Donald Trump
+AMD,AI chipmaker (CEO Lisa Su); Helios racks at Meta; $1B into Meta's Oct 2026 equity offering,media,Media owners & platforms,1,2,AMD > Meta > Donald Trump
+George Kollitides,Pentagon: Feinberg co-chief of staff; director Economic Defense Unit + BOND; vice-chair OSC investment committee; ex-Remington CEO; ex-A&M Capital partner (SEC filing: 'Senior Advisor'),defense,Defense & Intel,3,2,George Kollitides > Stephen Feinberg > Donald Trump
+Alvarez & Marsal (A&M Capital / A&M Federal),"Consulting + private equity group; A&M Federal got ~$350M DoD OTAs since Dec 2025 (~5x two prior decades, ProPublica)",defense,Defense & Intel,1,3,Alvarez & Marsal (A&M Capital / A&M Federal) > George Kollitides > Stephen Feinberg > Donald Trump
+D. Boral Acquisition I,Cayman Islands SPAC; affiliate D. Boral Capital partners with defense-related firms,defense,Defense & Intel,1,3,D. Boral Acquisition I > George Kollitides > Stephen Feinberg > Donald Trump
+Ted Cruz,US Senator (R-TX); Trump SAID Oct 27 2026 he'd be his next Supreme Court pick (Cruz has repeatedly declined),gov,Government / White House,1,1,Ted Cruz > Donald Trump
+Mohsen Rezaei,"Secretary, Iran's Supreme National Security Council; ex-IRGC commander (longest-serving); recipient of Vance letter Oct 2026",iran,Iran & Yemen leadership,1,3,Mohsen Rezaei > JD Vance > Peter Thiel > Donald Trump
+Brett Sylvia,"Army Lt. Gen.; Joint Staff J-5 (strategy, plans, policy) director until removal Oct 2026",defense,Defense & Intel,2,3,Brett Sylvia > Pete Hegseth > Elon Musk > Donald Trump
+Jason Galanis,"Convicted securities fraudster (Wakpamni bonds 'mastermind', Devon Archer partner); sentence commuted by Trump Mar 2025; engaged to Savannah Chrisley Oct 2026",finance,Other finance (cabinet family/funders),1,1,Jason Galanis > Donald Trump
+Mike Sitrick,Crisis-PR executive (Sitrick and Co.); advised Epstein on March 2011 press statement (DOJ-released emails),epstein,Epstein network 2009-2017 (historical),1,3,Mike Sitrick > Jeffrey Epstein > Elon Musk > Donald Trump
+ADT,"Home-security company (NYSE: ADT); agreed Oct 29 2026 to be taken private by Thrive Holdings ($10/sh cash, $7.6B equity, $15.3B EV); go-shop to Nov 28; close Q1 2027",finance,Other finance (cabinet family/funders),2,1,ADT > Donald Trump
+Alice Huang (Megaspeed),"Chinese citizen; managing director/senior executive of Singapore Nvidia cloud partner Megaspeed (Commerce chip-diversion probe since 2024, referred to DOJ); US officials (anon., NYT Oct 2026) call her a Chinese intelligence asset; she has not commented",media,Media owners & platforms,1,3,Alice Huang (Megaspeed) > Nvidia > Meta > Donald Trump
+Christine Lagarde,"ECB President (2019-); announced Oct 29 2026 she steps down Feb 7 2027, ~9 months early; reason not stated on record",finance,Other finance (cabinet family/funders),1,,
+European Council (Antonio Costa),EU heads of government; President Antonio Costa; appoints the ECB President (TFEU Art. 283),gov,Government / White House,1,,
+CoreCivic (private prisons / ICE detention),Private prison / ICE-detention operator (Brentwood TN); sold four facilities to DHS in 2026 (>$2.2B total per KARE 11) incl. Prairie (Appleton MN) $495.6M; manages them for ICE; $500K to the Trump-Vance inaugural (Dec 2024),defense,Defense & Intel,2,1,CoreCivic (private prisons / ICE detention) > Donald Trump
+Mark Walter (Guggenheim; Dodgers / Lakers owner),Guggenheim Partners CEO; TWG Global; Dodgers controlling owner (with Todd Boehly); bought Lakers control 2025 ($10B); agreed Aug 2026 to sell to Josh Kushner / Bob Iger at $12.5B (pending NBA approval),finance,Other finance (cabinet family/funders),2,2,Mark Walter (Guggenheim; Dodgers / Lakers owner) > Todd Boehly > Donald Trump
+Bob Iger,Former Disney CEO; partner of Josh Kushner in Thrive Eternal (sports investing) and in the pending $12.5B Lakers purchase,media,Media owners & platforms,1,3,Bob Iger > Josh Kushner (Thrive Capital) > Charles Kushner > Donald Trump
